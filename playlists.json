@@ -1,0 +1,34 @@
+{
+    "beres": [
+        {
+            "title": "Spit It Out (feat. Rochelle Jordan)",
+            "artist": "KAYTRANADA/Rochelle Jordan",
+            "album": "Spit It Out (feat. Rochelle Jordan)",
+            "genre": "Unknown Genre",
+            "file": "music\\Spit It Out (feat. Rochelle Jordan) - KAYTRANADA.mp3"
+        },
+        {
+            "title": "GOODBYE BITCH!",
+            "artist": "KAYTRANADA",
+            "album": "GOODBYE BITCH!",
+            "genre": "Unknown Genre",
+            "file": "music\\GOODBYE BITCH! - KAYTRANADA.mp3"
+        }
+    ],
+    "steve": [
+        {
+            "title": "GOODBYE BITCH!",
+            "artist": "KAYTRANADA",
+            "album": "GOODBYE BITCH!",
+            "genre": "Unknown Genre",
+            "file": "music\\GOODBYE BITCH! - KAYTRANADA.mp3"
+        },
+        {
+            "title": "Spit It Out (feat. Rochelle Jordan)",
+            "artist": "KAYTRANADA/Rochelle Jordan",
+            "album": "Spit It Out (feat. Rochelle Jordan)",
+            "genre": "Unknown Genre",
+            "file": "music\\Spit It Out (feat. Rochelle Jordan) - KAYTRANADA.mp3"
+        }
+    ]
+}
